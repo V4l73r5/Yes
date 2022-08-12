@@ -1,0 +1,53 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+header {
+    width: 100%;
+    height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    max-width: 400px;
+    margin: 0 auto;
+}
+.wrapper {
+    padding: 10px;
+}
+#engi {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftf2-crap%2Fimages%2F0%2F0a%2FSmallineer.PNG%2Frevision%2Flatest%3Fcb%3D20180104205613&f=1&nofb=1");
+}
+#hoovy {
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F92723206596736522%2FCEA8EA5E5FEF3BA85065AC97D72E815CB33B93C4%2F&f=1&nofb=1");
+}
+p {
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    width: 10rem;
+    height: max-content;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 2rem;
+    text-shadow: 5px 5px 5px black;
+}
+img {
+    width: 40%
+}
+body {
+    background-color: orange
+}
+footer {
+    margin-top: 15px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:blueviolet;
+}
