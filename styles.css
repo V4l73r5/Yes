@@ -16,10 +16,13 @@ header {
     padding: 10px;
 }
 #engi {
-    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fvignette.wikia.nocookie.net%2Ftf2-crap%2Fimages%2F0%2F0a%2FSmallineer.PNG%2Frevision%2Flatest%3Fcb%3D20180104205613&f=1&nofb=1");
+    background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c500e9aa1c1abdbf6b9ed0d0d6bf164%2Ftenor.gif%3Fitemid%3D9730278&f=1&nofb=1");
 }
 #hoovy {
     background-image: url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fsteamuserimages-a.akamaihd.net%2Fugc%2F92723206596736522%2FCEA8EA5E5FEF3BA85065AC97D72E815CB33B93C4%2F&f=1&nofb=1");
+}
+#cat {
+    background-image: url(https://25.media.tumblr.com/tumblr_lkymswi39s1qe1ucbo1_400.gif);
 }
 p {
     position: absolute;
